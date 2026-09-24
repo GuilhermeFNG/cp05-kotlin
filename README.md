@@ -1,3 +1,13 @@
+## Evidencias
+# Lista
+<img width="333" height="748" alt="image" src="https://github.com/user-attachments/assets/f0d3df33-8c88-4512-bd19-a7ba44516f21" />
+# Tela de Confirmação
+<img width="340" height="751" alt="image" src="https://github.com/user-attachments/assets/2e4cee51-405e-4227-97a9-d378e276a71c" />
+# Lista pós confirmação
+<img width="334" height="751" alt="image" src="https://github.com/user-attachments/assets/5300ef1b-966f-42d2-b34f-b89844d0e58d" />
+
+
+
 # To-Do List
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?logo=kotlin&logoColor=white)
